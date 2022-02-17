@@ -1,6 +1,5 @@
 <div align = "center">
     <h1>TMSIM</h1>
-    <img src = "./logo.png"/>
     <h4>Turing machine simulator written in Rust</h4>
 </div>
 <hr>
