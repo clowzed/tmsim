@@ -40,7 +40,7 @@ export PATH="/your/bin/path:$PATH"
 [converter repository url](https://github.com/clowzed/tmsim-converter)
 
 2) Create a file `conf.tmsim`
-```bash
+```
 q0(*) -> q0(*)R
 q0(a) -> q0(#)R
 q0(b) -> q0(#)R
